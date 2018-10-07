@@ -1,1 +1,1 @@
-wiserepo.files.tar.gz.sig
+wiserepo.files.tar.xz.sig

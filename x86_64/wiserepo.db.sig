@@ -1,1 +1,1 @@
-wiserepo.db.tar.gz.sig
+wiserepo.db.tar.xz.sig
